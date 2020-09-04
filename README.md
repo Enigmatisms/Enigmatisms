@@ -1,7 +1,9 @@
-### Enigmatisms
+### - 🔭 Getting out of the TrashCan !
 
-- 🔭 目前正努力从垃圾堆里爬出来
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
-
-![Enigmatisms's github stats](https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Enigmatisms&show_icons=true&include_all_commits=true&theme=dark" alt="Enigmatisms's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile&theme=dark" />
+</a>
