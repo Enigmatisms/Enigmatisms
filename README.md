@@ -8,4 +8,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html&theme=tokyonight" />
 </a>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=DIP)](https://github.com/Enigmatisms/DIP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Algorithms-Plus)](https://github.com/Enigmatisms/Algorithms-Plus)
 
