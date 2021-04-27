@@ -5,7 +5,7 @@
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript&theme=tokyonight" />
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=DIP)](https://github.com/Enigmatisms/DIP)
