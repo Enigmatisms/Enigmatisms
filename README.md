@@ -18,7 +18,7 @@ I am seeking a way not to be so fresh-fish.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript,labview&theme=tokyonight" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=DIP)](https://github.com/Enigmatisms/Volume)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Volume)](https://github.com/Enigmatisms/Volume)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Algorithms-Plus)](https://github.com/Enigmatisms/Algorithms-Plus)
 
 ### Using
