@@ -16,6 +16,7 @@ I am seeking a way not to be so fresh-fish.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript,labview&theme=tokyonight" />
+<img src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
 </a>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Volume)](https://github.com/Enigmatisms/Volume)
@@ -34,3 +35,4 @@ I am seeking a way not to be so fresh-fish.
 <img align="left" alt="Visual Studio Code" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="left" alt="Ubuntu" width="22px" src="https://simpleicons.org/icons/ubuntu.svg" />
 <img align="left" alt="Pytorch" width="22px" src="https://simpleicons.org/icons/pytorch.svg" />
+<img align="left" alt="Haskell" width="22px" src="https://simpleicons.org/icons/haskell.svg" />
