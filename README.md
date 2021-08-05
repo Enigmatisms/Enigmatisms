@@ -15,7 +15,7 @@ I am seeking a way not to be so fresh-fish.
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript,labview&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript,labview,css,matlab,common lisp,cuda,verilog&theme=tokyonight" />
 <img src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
 </a>
 
