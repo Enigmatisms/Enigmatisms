@@ -39,4 +39,3 @@ I am seeking a way not to be so fresh-fish.
 <img align="left" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
 <img align="left" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
 <img align="left" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
-<img align="left" alt="MC" width="30px" src="https://simpleicons.org/icons/minecraft.svg" />
