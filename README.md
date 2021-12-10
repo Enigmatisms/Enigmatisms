@@ -13,30 +13,29 @@ I am seeking a way not to be so fresh-fish.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&count_private=true&theme=dracula" alt="Enigmatisms's github stats" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,jupyter notebook,labview,css,matlab,common lisp,verilog&theme=dracula" />
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
 </a>
 <a  herf="https://github.com/Enigmatisms/Axis6"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Axis6"></a>
 <a  herf="https://github.com/Enigmatisms/LiDARSim2D"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=LiDARSim2D"></a>
 </div>
 <div align="center">
 <h3>Using</h3>
-<img align="center" alt="C++" width="30px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="center" alt="ROS" width="30px" src="https://simpleicons.org/icons/ros.svg" />
-<img align="center" alt="Markdown" width="30px" src="https://simpleicons.org/icons/markdown.svg" />
-<img align="center" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
-<img align="center" alt="OpenCV" width="30px" src="https://simpleicons.org/icons/opencv.svg" />
-<img align="center" alt="Hexo" width="30px" src="https://simpleicons.org/icons/hexo.svg" />
-<img align="center" alt="Shell" width="30px" src="https://simpleicons.org/icons/shell.svg" />
-<img align="center" alt="LaTeX" width="30px" src="https://simpleicons.org/icons/latex.svg" />
-<img align="center" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="center" alt="Ubuntu" width="30px" src="https://simpleicons.org/icons/ubuntu.svg" />
-<img align="center" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
-<img align="center" alt="Haskell" width="30px" src="https://simpleicons.org/icons/haskell.svg" />
-<img align="center" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
-<img align="center" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
-<img align="center" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
-<img align="center" alt="JS" width="30px" src="https://simpleicons.org/icons/javascript.svg" />
-<img align="center" alt="JS" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
-<img align="center" alt="CMake" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
+<img align="center" width="5.5%" alt="C++" width="30px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="center" width="5.5%" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="center" width="5.5%" alt="ROS" width="30px" src="https://simpleicons.org/icons/ros.svg" />
+<img align="center" width="5.5%" alt="Markdown" width="30px" src="https://simpleicons.org/icons/markdown.svg" />
+<img align="center" width="5.5%" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
+<img align="center" width="5.5%" alt="OpenCV" width="30px" src="https://simpleicons.org/icons/opencv.svg" />
+<img align="center" width="5.5%" alt="Hexo" width="30px" src="https://simpleicons.org/icons/hexo.svg" />
+<img align="center" width="5.5%" alt="Shell" width="30px" src="https://simpleicons.org/icons/shell.svg" />
+<img align="center" width="5.5%" alt="LaTeX" width="30px" src="https://simpleicons.org/icons/latex.svg" />
+<img align="center" width="5.5%" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="center" width="5.5%" alt="Ubuntu" width="30px" src="https://simpleicons.org/icons/ubuntu.svg" />
+<img align="center" width="5.5%" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
+<img align="center" width="5.5%" alt="Haskell" width="30px" src="https://simpleicons.org/icons/haskell.svg" />
+<img align="center" width="5.5%" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
+<img align="center" width="5.5%" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
+<img align="center" width="5.5%" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
+<img align="center" width="5.5%" alt="JS" width="30px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="center" width="5.5%" alt="CMake" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
 </div>
