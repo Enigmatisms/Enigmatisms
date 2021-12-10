@@ -9,33 +9,34 @@ My fields of interest are:
 - Probabilistic theory and related subjects.
 
 I am seeking a way not to be so fresh-fish.
-
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&count_private=true&theme=tokyonight" alt="Enigmatisms's github stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&count_private=true&theme=dracula" alt="Enigmatisms's github stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,jupyter notebook,labview,css,matlab,common lisp,verilog&theme=dracula" />
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&hide=cmake,makefile,html,less,jupyter notebook,javascript,labview,css,matlab,common lisp,verilog&theme=tokyonight" />
-<img src="https://activity-graph.herokuapp.com/graph?username=Enigmatisms&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark"/>
-</a>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Axis6)](https://github.com/Enigmatisms/Axis6)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=LiDARSim2D)](https://github.com/Enigmatisms/LiDARSim2D)
-
-### Using
-<img align="left" alt="C++" width="30px" src="https://simpleicons.org/icons/cplusplus.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align="left" alt="ROS" width="30px" src="https://simpleicons.org/icons/ros.svg" />
-<img align="left" alt="Markdown" width="30px" src="https://simpleicons.org/icons/markdown.svg" />
-<img align="left" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
-<img align="left" alt="OpenCV" width="30px" src="https://simpleicons.org/icons/opencv.svg" />
-<img align="left" alt="Hexo" width="30px" src="https://simpleicons.org/icons/hexo.svg" />
-<img align="left" alt="Shell" width="30px" src="https://simpleicons.org/icons/shell.svg" />
-<img align="left" alt="LaTeX" width="30px" src="https://simpleicons.org/icons/latex.svg" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
-<img align="left" alt="Ubuntu" width="30px" src="https://simpleicons.org/icons/ubuntu.svg" />
-<img align="left" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
-<img align="left" alt="Haskell" width="30px" src="https://simpleicons.org/icons/haskell.svg" />
-<img align="left" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
-<img align="left" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
-<img align="left" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
+<a  herf="https://github.com/Enigmatisms/Axis6"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Axis6"></a>
+<a  herf="https://github.com/Enigmatisms/LiDARSim2D"><img  src="https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=LiDARSim2D"></a>
+</div>
+<div align="center">
+<h3>Using</h3>
+<img align="center" alt="C++" width="30px" src="https://simpleicons.org/icons/cplusplus.svg" />
+<img align="center" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="center" alt="ROS" width="30px" src="https://simpleicons.org/icons/ros.svg" />
+<img align="center" alt="Markdown" width="30px" src="https://simpleicons.org/icons/markdown.svg" />
+<img align="center" alt="Git" width="30px" src="https://simpleicons.org/icons/git.svg" />
+<img align="center" alt="OpenCV" width="30px" src="https://simpleicons.org/icons/opencv.svg" />
+<img align="center" alt="Hexo" width="30px" src="https://simpleicons.org/icons/hexo.svg" />
+<img align="center" alt="Shell" width="30px" src="https://simpleicons.org/icons/shell.svg" />
+<img align="center" alt="LaTeX" width="30px" src="https://simpleicons.org/icons/latex.svg" />
+<img align="center" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="center" alt="Ubuntu" width="30px" src="https://simpleicons.org/icons/ubuntu.svg" />
+<img align="center" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
+<img align="center" alt="Haskell" width="30px" src="https://simpleicons.org/icons/haskell.svg" />
+<img align="center" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
+<img align="center" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
+<img align="center" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
+<img align="center" alt="JS" width="30px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="center" alt="JS" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
+<img align="center" alt="CMake" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
+</div>
