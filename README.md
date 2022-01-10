@@ -1,13 +1,5 @@
 ### - 🔭 Getting out of the TrashCan !
 I am Qianyue He, a 4th-year senior undergraduate in XJTU Automation. I am currently an algo developer.
-
-The skills of mine are: C++(STL/ROS), Python, Shell, Markdown docs and graphic design.
-
-My fields of interest are:
-- 3D related computer vision: Stereo / SLAM / 3D reconstruction.
-- DL: interpretable models, vector NN.
-- Probabilistic theory and related subjects.
-
 I am seeking a way not to be so fresh-fish.
 <div align="center">
 <a href="https://enigmatisms.github.io/">
@@ -20,7 +12,6 @@ I am seeking a way not to be so fresh-fish.
 </div>
 
 <div align="center">
-<h3>Using</h3>
 <img align="center" width="4.5%" alt="C++" width="30px" src="https://simpleicons.org/icons/cplusplus.svg" />
 <img align="center" width="4.5%" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="center" width="4.5%" alt="ROS" width="30px" src="https://simpleicons.org/icons/ros.svg" />
