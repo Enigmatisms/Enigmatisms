@@ -1,6 +1,7 @@
 ### - 🔭 Getting out of the TrashCan !
 I am Qianyue He, a 4th-year senior undergraduate in XJTU Automation. I am currently an algo developer.
-I am seeking a way not to be so fresh-fish.
+
+Seeking a way not to be so fresh-fish.
 <div align="center">
 <a href="https://enigmatisms.github.io/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&count_private=true&theme=dracula" alt="Enigmatisms's github stats" />
