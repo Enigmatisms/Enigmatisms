@@ -5,7 +5,7 @@ Seeking a way not to be so fresh-fish.
 <div align="center">
 <a href="https://enigmatisms.github.io/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Enigmatisms&show_icons=true&count_private=true&theme=dracula" alt="Enigmatisms's github stats" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,jupyter notebook,labview,css,matlab,common lisp,verilog&theme=dracula" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,jupyter notebook,labview,css,matlab,common lisp,verilog,javascript,lua&theme=dracula" />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=Axis6&theme=dracula)](https://github.com/Enigmatisms/Axis6)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Enigmatisms&repo=LiDARSim2D&theme=dracula)](https://github.com/Enigmatisms/LiDARSim2D)
