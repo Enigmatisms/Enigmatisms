@@ -25,7 +25,8 @@ Seeking a way not to be so fresh-fish.
 <img align="center" width="4.5%" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
 <img align="center" width="4.5%" alt="Ubuntu" width="30px" src="https://simpleicons.org/icons/ubuntu.svg" />
 <img align="center" width="4.5%" alt="Pytorch" width="30px" src="https://simpleicons.org/icons/pytorch.svg" />
-<img align="center" width="4.5%" alt="Haskell" width="30px" src="https://simpleicons.org/icons/haskell.svg" />
+  
+<img align="center" width="4.5%" alt="Rust" width="30px" src="https://simpleicons.org/icons/rust.svg" />
 <img align="center" width="4.5%" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
 <img align="center" width="4.5%" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
 <img align="center" width="4.5%" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
