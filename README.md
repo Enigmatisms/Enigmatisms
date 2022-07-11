@@ -1,5 +1,5 @@
 ### - 🔭 Getting out of the TrashCan !
-I am Qianyue He, a 4th-year senior undergraduate in XJTU Automation. I am currently an algo developer.
+I am Qianyue He. Bachelor of Engineering in Automation, graduated from XJTU. Pursuing further education in Tsinghua SIGS (Artificial Intelligence). I am currently an algo developer.
 
 Seeking a way not to be so fresh-fish.
 <div align="center">
