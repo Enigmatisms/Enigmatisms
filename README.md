@@ -56,6 +56,6 @@ Seeking a way not to be so fresh-fish.
 <img align="center" width="4.5%" alt="CUDA" width="30px" src="https://simpleicons.org/icons/nvidia.svg" />
 <img align="center" width="4.5%" alt="Unity" width="30px" src="https://simpleicons.org/icons/unity.svg" />
 <img align="center" width="4.5%" alt="Sketchup" width="30px" src="https://simpleicons.org/icons/sketchup.svg" />
-<img align="center" width="4.5%" alt="JS" width="30px" src="https://simpleicons.org/icons/javascript.svg" />
+<img align="center" width="4.5%" alt="Taichi" width="30px" src="https://simpleicons.org/icons/taichilang.svg" />
 <img align="center" width="4.5%" alt="CMake" width="30px" src="https://simpleicons.org/icons/cmake.svg" />
 </div>
