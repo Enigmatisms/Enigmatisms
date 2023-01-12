@@ -1,0 +1,40 @@
+name: Sync
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install
+        run: pip install feedparser
+
+      - name: Update
+        run: python update_blog.py
+
+      - name: Commit
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m \
+          ":pencil: Update at \
+          $(date +"%Y-%m-%d %H:%M") \
+          "
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.BLOG_TOKEN }}
