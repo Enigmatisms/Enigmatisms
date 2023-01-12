@@ -2,7 +2,7 @@ name: Update README
 
 on:
   workflow_run:
-    workflows: ["Deploy to OSS"]      # 修改为你的站点发布工作流 name
+    workflows: ["Enigmatisms/Enigmatisms.github.io/pages-build-deployment"]
     types: 
       - completed
 
