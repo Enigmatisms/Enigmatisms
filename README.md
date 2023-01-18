@@ -13,7 +13,7 @@ Seeking a way not to be so fresh-fish.
 <tr>
 <td>
 <a href="https://enigmatisms.github.io/">
-  <img height="180em" align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,labview,css,matlab,verilog,javascript,lua" alt="Enigmatisms's top language"/>
+  <img height="180em" align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,labview,css,matlab,verilog,javascript,lua" alt="Enigmatisms's top language"/>
 </a>
 </td>
 <td>
@@ -36,8 +36,8 @@ Seeking a way not to be so fresh-fish.
 
 
 
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Enigmatisms&repo=Axis6)](https://github.com/Enigmatisms/Axis6)
-[![Readme Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=Enigmatisms&repo=LiDARSim2D)](https://github.com/Enigmatisms/LiDARSim2D)
+[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=Enigmatisms&repo=Axis6)](https://github.com/Enigmatisms/Axis6)
+[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=Enigmatisms&repo=LiDARSim2D)](https://github.com/Enigmatisms/LiDARSim2D)
 </div>
 
 
