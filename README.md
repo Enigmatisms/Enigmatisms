@@ -2,6 +2,8 @@
 
 I am Qianyue He. Bachelor of Engineering in Automation, graduated from XJTU. Pursuing further education in Tsinghua SIGS (Artificial Intelligence). I am currently an algo developer.
 
+I've been working on computer graphics and building an awesome renderer called [Ada Path Tracer (AdaPT)](https://github.com/Enigmatisms/AdaPT) based on Taichi Lang, lately.
+
 Seeking a way not to be so fresh-fish.
 
 <div align="center">
