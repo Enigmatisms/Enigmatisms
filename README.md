@@ -22,12 +22,12 @@ Seeking a way not to be so fresh-fish.
 </td>
 <td>
 <!-- posts start -->
+※ 2024-04-03《<a href="https://enigmatisms.github.io/2024/04/03/%E9%AB%98%E6%80%A7%E8%83%BD%E5%BC%82%E6%9E%84%E8%AE%A1%E7%AE%97%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86/">高性能异构计算相关知识</a>》<br/>
 ※ 2023-02-18《<a href="https://enigmatisms.github.io/2023/02/18/AdaPT-Volumetric-Path-Tracer-I/">AdaPT - Volumetric Path Tracer I</a>》<br/>
 ※ 2023-02-11《<a href="https://enigmatisms.github.io/2023/02/11/AdaPT-Monte-Carlo-Path-Tracer-II/">AdaPT - Monte Carlo Path Tracer II</a>》<br/>
 ※ 2023-02-08《<a href="https://enigmatisms.github.io/2023/02/09/AdaPT-Monte-Carlo-Path-Tracer-I/">AdaPT - Monte Carlo Path Tracer I</a>》<br/>
 ※ 2023-01-15《<a href="https://enigmatisms.github.io/2023/01/15/Taichi-Learning-II/">Taichi-Learning-II</a>》<br/>
 ※ 2023-01-11《<a href="https://enigmatisms.github.io/2023/01/11/Taichi-Learning-I/">Taichi Learning I</a>》<br/>
-※ 2022-08-13《<a href="https://enigmatisms.github.io/2022/08/13/Mip-NeRF-Ref-NeRF/">Ref NeRF复现</a>》<br/>
 <br/><a href="https://enigmatisms.github.io/">Read more..</a>
 
 
