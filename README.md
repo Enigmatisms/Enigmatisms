@@ -1,4 +1,4 @@
-I am Qianyue He. Bachelor of Engineering in Automation, graduated from XJTU. Pursuing further education in Tsinghua SIGS (Artificial Intelligence). I am currently an algo developer, interested in high performance graphics and AI-related computing.
+I am Qianyue He. Bachelor of Engineering in Automation, graduated from XJTU. Pursuing further education in Tsinghua SIGS (Artificial Intelligence). Elected moderator (since 2024.10.9) for [Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/). I am currently an algo developer, interested in high performance graphics and AI-related computing.
 
 I've been working on computer graphics and building an awesome renderer called [Ada Path Tracer (AdaPT)](https://github.com/Enigmatisms/AdaPT) based on Taichi Lang and a high performance CUDA path tracer [cuda-pt](https://github.com/Enigmatisms/cuda-pt) with PTX assembly-level profiling. Computer graphics stackexchange: [Enigmatisms](https://computergraphics.stackexchange.com/users/19537/enigmatisms)
 
