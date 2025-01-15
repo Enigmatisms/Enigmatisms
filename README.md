@@ -32,7 +32,4 @@ Seeking a way not to be so fresh-fish.
 </tr>
 </table>
 
-
-[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=Enigmatisms&repo=Axis6)](https://github.com/Enigmatisms/Axis6)
-[![Readme Card](https://github-readme-stats.zohan.tech/api/pin/?username=Enigmatisms&repo=LiDARSim2D)](https://github.com/Enigmatisms/LiDARSim2D)
 </div>
