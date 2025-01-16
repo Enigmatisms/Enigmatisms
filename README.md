@@ -6,7 +6,7 @@ Pursuing further education in Tsinghua SIGS (Artificial Intelligence).
 
 I am currently an algo developer, interested in high performance graphics and AI-related computing.
 
-I've been working on computer graphics and building a high performance CUDA path tracer from scratch [cuda-pt](https://github.com/Enigmatisms/cuda-pt) with PTX assembly-level profiling, Python API and distributed parallel rendering ability.
+I've been working on computer graphics and building a high performance CUDA path tracer [cuda-pt](https://github.com/Enigmatisms/cuda-pt) from scratch  with PTX assembly-level profiling, Python API and distributed parallel rendering ability.
 
 Another awesome renderer of mine called [Ada Path Tracer (AdaPT)](https://github.com/Enigmatisms/AdaPT) is based on Taichi Lang.
 
