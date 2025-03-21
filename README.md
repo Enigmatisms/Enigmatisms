@@ -9,9 +9,10 @@ I am currently an algo developer, interested in high performance graphics and AI
 I've been working on computer graphics and building a high performance CUDA path tracer [cuda-pt](https://github.com/Enigmatisms/cuda-pt) from scratch  with SASS assembly-level profiling, Python API and distributed parallel rendering ability.
 
 Another awesome renderer of mine called [Ada Path Tracer (AdaPT)](https://github.com/Enigmatisms/AdaPT) is based on Taichi Lang.
-
-
-Pushing the boundaries.
+<div align="center">
+<i>“What I cannot create, I do not understand --- Richard Feynman”</i>
+<p></p>
+</div>
 
 <div align="center">
 <table border="0">
@@ -22,7 +23,7 @@ Pushing the boundaries.
 <tr>
 <td>
 <a href="https://enigmatisms.github.io/">
-  <img height="180em" align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=cmake,makefile,html,less,labview,css,matlab,verilog,javascript,lua" alt="Enigmatisms's top language"/>
+  <img height="180em" align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Enigmatisms&layout=compact&langs_count=6&hide=c,cmake,makefile,html,less,labview,css,matlab,verilog,javascript,lua" alt="Enigmatisms's top language"/>
 </a>
 </td>
 <td>
