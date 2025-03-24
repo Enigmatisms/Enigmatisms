@@ -4,11 +4,10 @@ Pursuing further education in Tsinghua SIGS (Artificial Intelligence).
 
 [Elected moderator](https://computergraphics.stackexchange.com/users/19537/enigmatisms) (since 2024.10.9) for [Computer Graphics Stack Exchange](https://computergraphics.stackexchange.com/). 
 
-I am currently an algo developer, interested in high performance graphics and AI-related computing.
+I am currently an AI compiler developer, interested in high performance graphics and AI-related computing.
 
 I've been working on computer graphics and building a high performance CUDA path tracer [cuda-pt](https://github.com/Enigmatisms/cuda-pt) from scratch  with SASS assembly-level profiling, Python API and distributed parallel rendering ability.
 
-Another awesome renderer of mine called [Ada Path Tracer (AdaPT)](https://github.com/Enigmatisms/AdaPT) is based on Taichi Lang.
 <div align="center">
 <i>“What I cannot create, I do not understand --- Richard Feynman”</i>
 <p></p>
